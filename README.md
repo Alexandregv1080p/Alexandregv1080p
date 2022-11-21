@@ -1,9 +1,7 @@
 Olá, sou Alexandre Gomes
 
-- 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando React,TypeScript,Angular e C#
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: alexandregv1999@gmail.com
+- 📫 Contato email: alexandregv1999@gmail.com
 
 
 <div align="center">

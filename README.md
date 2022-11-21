@@ -1,10 +1,10 @@
-Olá, sou Mateus Batista
+Olá, sou Alexandre Gomes
 
 - 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando React e TypeScript
+- 🌱 Estudando React,TypeScript,Angular e C#
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: devbatistacontato@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contacte-me no email: alexandregv1999@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/Mateus-Batista12">

@@ -1,6 +1,5 @@
 Olá, sou Alexandre Gomes
 
-- 🌱 Estudando React,TypeScript,Angular e C#
 - 📫 Contato email: alexandregv1999@gmail.com
 
 
